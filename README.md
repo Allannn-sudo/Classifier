@@ -6,9 +6,7 @@ Preprocess photos using the Vision framework and classify them with a Core ML mo
 
 With the [Core ML](https://developer.apple.com/documentation/coreml) framework, you can use a trained machine learning model to classify input data. The [Vision](https://developer.apple.com/documentation/vision) framework works with Core ML to apply classification models to images, and to preprocess those images to make machine learning tasks easier and more reliable.
 
-This sample app uses the open source MobileNet model, one of several [available classification models](https://developer.apple.com/machine-learning), to identify an image using 1000 classification categories as seen in the example screenshots below.
-
-![example screenshots of app identifying a potted plant, a fountain, and a bunch of bananas](Documentation/classifications.png)
+This sample app uses the open source MobileNet model, one of several [available classification models](https://developer.apple.com/machine-learning), to identify an image using 1000 classification categories as seen in the example screenshots.
 
 ## Getting Started
 
